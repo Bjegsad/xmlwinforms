@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<books>
+  <book>
+    <title>Война и мир</title>
+    <author>Лев Толстой</author>
+  </book>
+  <book>
+    <title>Преступление и наказание</title>
+    <author>Фёдор Достоевский</author>
+  </book>
+  <book>
+    <title>Мастер и Маргарита</title>
+    <author>Михаил Булгаков</author>
+  </book>
+</books>

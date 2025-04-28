@@ -1,0 +1,9 @@
+X:\C#\xmlwinforms\xmlwinforms\xmlwinforms\bin\Debug\xmlwinforms.exe.config
+X:\C#\xmlwinforms\xmlwinforms\xmlwinforms\bin\Debug\xmlwinforms.exe
+X:\C#\xmlwinforms\xmlwinforms\xmlwinforms\bin\Debug\xmlwinforms.pdb
+X:\C#\xmlwinforms\xmlwinforms\xmlwinforms\obj\Debug\xmlwinforms.csprojAssemblyReference.cache
+X:\C#\xmlwinforms\xmlwinforms\xmlwinforms\obj\Debug\xmlwinforms.Form1.resources
+X:\C#\xmlwinforms\xmlwinforms\xmlwinforms\obj\Debug\xmlwinforms.Properties.Resources.resources
+X:\C#\xmlwinforms\xmlwinforms\xmlwinforms\obj\Debug\xmlwinforms.csproj.GenerateResource.cache
+X:\C#\xmlwinforms\xmlwinforms\xmlwinforms\obj\Debug\xmlwinforms.exe
+X:\C#\xmlwinforms\xmlwinforms\xmlwinforms\obj\Debug\xmlwinforms.pdb
